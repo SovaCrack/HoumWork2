@@ -10,5 +10,5 @@ if(Length == 3)
 }
 else
 {
-    Console.WriteLine("Третьего числа нет");
+    Console.WriteLine("Это не трехзначное число");
 }
